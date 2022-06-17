@@ -1,7 +1,7 @@
 from math import pi
 from math import sqrt
 
-# On demande à l’utilisateur la taille du sapin tant qu’il n’a pas entré un entier
+# On demande à l’utilisateur la taille du sapin tant qu’il n’a pas entré un entier 
 while True:
     try:
         taille_sapin = int(input("Quel est la taille de votre sapin en cm : "))
