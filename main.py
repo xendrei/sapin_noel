@@ -36,7 +36,7 @@ else:
     diametre_etoile_mes = 'cm'
 
 # Affichage des résultats
-print(f'Pour réaliser un sapin idéal de {taille_sapin} cm, il vous faudra les éléments suivants :')
+print(f'\nPour réaliser un sapin idéal de {taille_sapin} cm, il vous faudra les éléments suivants :')
 print(f' - Une guirlande classique de {taille_guirlande_classique} {taille_guirlande_classique_mes}')
 print(f' - Une guirlande lumineuse de {taille_guirlande_lumineuse} {taille_guirlande_lumineuse_mes}')
 print(f' - {nb_boules} boules')
